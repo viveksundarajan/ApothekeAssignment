@@ -9,7 +9,10 @@ Selenium Testautomation to test the Login functionality of Shop Apotheke website
 
 **Technologies used:** 
 
-     Selenium Maven TestNG  Java 8
+     Selenium
+     Maven 
+     TestNG  
+     Java 8
 
 **Browsers : **
 
