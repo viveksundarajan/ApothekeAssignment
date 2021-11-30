@@ -16,8 +16,9 @@ To change the browser, update the browser name in testng.xml file
 To run the test,
 
 Open terminal and hit the below command
-
-  mvn clean test
+    
+    mvn clean test
+  
 ** Reports** After the test run, testNG report will be available under below folder,
 
 target -> surefire-reports -> index.html
