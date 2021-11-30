@@ -1,0 +1,5 @@
+com/apotheke/utilities/BaseInit.class
+com/apotheke/pages/Page.class
+com/apotheke/pages/LoginPage.class
+com/apotheke/pages/HomePage.class
+com/apotheke/pages/BasePage.class
