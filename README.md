@@ -4,8 +4,8 @@ Selenium Testautomation to test the Login functionality of Shop Apotheke website
 
 **Scenarios Covered :**
 
-1. Verify login with valid credentials and
-2. Verify the login with invalid credentials
+1. Verify login is successfull with valid credentials and
+2. Verify login is not success with invalid credentials
 
 **Technologies used:** 
 
